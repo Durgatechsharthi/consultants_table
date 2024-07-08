@@ -1,0 +1,6 @@
+.resizable-handle {
+  background-color: transparent;
+}
+.resizable-handle:hover {
+  background-color: #ccc;
+}
