@@ -49,7 +49,7 @@ function App() {
       <div className="p-4 w-[80%] rounded  bg-white m-3 ">
         <div className="flex  justify-between">
           <h1 className="text-2xl font-bold text-indigo-600 mb-4">
-            List of Consultants
+            List of Consultantsr
           </h1>
           <button
             className=" mb-2 px-2 py-2 bg-indigo-600 text-white hover:bg-gray-300 rounded"
